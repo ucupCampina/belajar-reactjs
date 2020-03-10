@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/belajar_reactjs/static/css/main.d1b05096.chunk.css",
-    "main.js": "/belajar_reactjs/static/js/main.9565cb0b.chunk.js",
-    "main.js.map": "/belajar_reactjs/static/js/main.9565cb0b.chunk.js.map",
-    "runtime-main.js": "/belajar_reactjs/static/js/runtime-main.f0e0f27c.js",
-    "runtime-main.js.map": "/belajar_reactjs/static/js/runtime-main.f0e0f27c.js.map",
-    "static/js/2.5b4d22bd.chunk.js": "/belajar_reactjs/static/js/2.5b4d22bd.chunk.js",
-    "static/js/2.5b4d22bd.chunk.js.map": "/belajar_reactjs/static/js/2.5b4d22bd.chunk.js.map",
-    "index.html": "/belajar_reactjs/index.html",
-    "precache-manifest.a823f37578115eba29d81175118ecb82.js": "/belajar_reactjs/precache-manifest.a823f37578115eba29d81175118ecb82.js",
-    "service-worker.js": "/belajar_reactjs/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/belajar_reactjs/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.5b4d22bd.chunk.js.LICENSE.txt": "/belajar_reactjs/static/js/2.5b4d22bd.chunk.js.LICENSE.txt"
+    "main.css": "/belajar-reactjs/static/css/main.d1b05096.chunk.css",
+    "main.js": "/belajar-reactjs/static/js/main.dd5ed8c0.chunk.js",
+    "main.js.map": "/belajar-reactjs/static/js/main.dd5ed8c0.chunk.js.map",
+    "runtime-main.js": "/belajar-reactjs/static/js/runtime-main.16be65a8.js",
+    "runtime-main.js.map": "/belajar-reactjs/static/js/runtime-main.16be65a8.js.map",
+    "static/js/2.5b4d22bd.chunk.js": "/belajar-reactjs/static/js/2.5b4d22bd.chunk.js",
+    "static/js/2.5b4d22bd.chunk.js.map": "/belajar-reactjs/static/js/2.5b4d22bd.chunk.js.map",
+    "index.html": "/belajar-reactjs/index.html",
+    "precache-manifest.08d047efc08ba39d0dc6924f93bc3b14.js": "/belajar-reactjs/precache-manifest.08d047efc08ba39d0dc6924f93bc3b14.js",
+    "service-worker.js": "/belajar-reactjs/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/belajar-reactjs/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5b4d22bd.chunk.js.LICENSE.txt": "/belajar-reactjs/static/js/2.5b4d22bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0e0f27c.js",
+    "static/js/runtime-main.16be65a8.js",
     "static/js/2.5b4d22bd.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.9565cb0b.chunk.js"
+    "static/js/main.dd5ed8c0.chunk.js"
   ]
 }
